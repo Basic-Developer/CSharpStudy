@@ -1,0 +1,9 @@
+D:\shsFile\myFile\study\C#\Quiz\No.5624 좋은 수\No.5624 좋은 수\obj\Debug\No.5624 좋은 수.csprojAssemblyReference.cache
+D:\shsFile\myFile\study\C#\Quiz\No.5624 좋은 수\No.5624 좋은 수\obj\Debug\No._5624_좋은_수.Properties.Resources.resources
+D:\shsFile\myFile\study\C#\Quiz\No.5624 좋은 수\No.5624 좋은 수\obj\Debug\No.5624 좋은 수.csproj.GenerateResource.cache
+D:\shsFile\myFile\study\C#\Quiz\No.5624 좋은 수\No.5624 좋은 수\obj\Debug\No.5624 좋은 수.csproj.CoreCompileInputs.cache
+D:\shsFile\myFile\study\C#\Quiz\No.5624 좋은 수\No.5624 좋은 수\bin\Debug\No.5624 좋은 수.exe.config
+D:\shsFile\myFile\study\C#\Quiz\No.5624 좋은 수\No.5624 좋은 수\bin\Debug\No.5624 좋은 수.exe
+D:\shsFile\myFile\study\C#\Quiz\No.5624 좋은 수\No.5624 좋은 수\bin\Debug\No.5624 좋은 수.pdb
+D:\shsFile\myFile\study\C#\Quiz\No.5624 좋은 수\No.5624 좋은 수\obj\Debug\No.5624 좋은 수.exe
+D:\shsFile\myFile\study\C#\Quiz\No.5624 좋은 수\No.5624 좋은 수\obj\Debug\No.5624 좋은 수.pdb
